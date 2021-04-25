@@ -27,3 +27,17 @@ inference.py
 
 
 三个文件 均 单独运行
+
+
+
+# 数据集
+
+VOC-2012
+
+
+
+# 环境
+
+pytorch 1.7.1
+
+python 3.7.9
